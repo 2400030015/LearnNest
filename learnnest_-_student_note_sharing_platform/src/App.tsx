@@ -69,7 +69,7 @@ export default function App() {
 
       <footer className="bg-gray-900 text-white py-8 mt-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-gray-400">© 2024 LearnNest - KL University - Powered by TECHPEERS DUNDI</p>
+          <p className="text-gray-400">© 2025 LearnNest - KL University - Powered by TECHPEERS DUNDI</p>
         </div>
       </footer>
 
